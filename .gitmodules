@@ -1,6 +1,8 @@
-[submodule "rust_002_guessing_game"]
-	path = rust_002_guessing_game
-	url = https://github.com/RezaBani/rust_002_guessing_game
-[submodule "zig_004_random_number_generator"]
-	path = zig_004_random_number_generator
-	url = https://github.com/RezaBani/zig_004_random_number_generator
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/RezaBani/guessing_game
+	branch = main
+[submodule "random_number_generator"]
+	path = random_number_generator
+	url = https://github.com/RezaBani/random_number_generator
+	branch = main
